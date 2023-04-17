@@ -1,4 +1,5 @@
 # javalearning
-我将在这里记录我自学编程的点点滴滴
-自学-自律-自强不息
-加油！2023.4.17
+2023年4月17日开始学习编程
+使用Github issues记录我自学编程的点点滴滴
+"hello friends!Let's work together"
+                                --Beijing
